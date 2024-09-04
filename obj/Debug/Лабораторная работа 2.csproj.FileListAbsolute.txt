@@ -1,0 +1,16 @@
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\MainWindow.g.cs
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\App.g.cs
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2_MarkupCompile.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2_MarkupCompile.lref
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\bin\Debug\Лабораторная работа 2.exe.config
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\bin\Debug\Лабораторная работа 2.exe
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\bin\Debug\Лабораторная работа 2.pdb
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\MainWindow.baml
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.g.resources
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная_работа_2.Properties.Resources.resources
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.csproj.GenerateResource.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.exe
+C:\Users\фвьшт\Desktop\3 курс\C#\Лабораторная работа 2\obj\Debug\Лабораторная работа 2.pdb
